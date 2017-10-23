@@ -88,6 +88,8 @@ angular.module('myApp', ['star-rating'])
 <star-rating-comp rating="'3.0'"></star-rating-comp>
 ```
 
+**Note: You need to provide the svg file under assets/images location.**
+
 ## Component Properties
 
 ### Input (< bindings)
